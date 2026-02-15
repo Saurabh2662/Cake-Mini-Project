@@ -1,1 +1,3 @@
-PYTHON CAKE MINI PROJECT
+## **PYTHON CAKE MINI PROJECT**
+
+**Programming Language: Python**
